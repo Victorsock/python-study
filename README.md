@@ -12,10 +12,8 @@ O repositório está organizado da seguinte forma:
 - 02-condicionais: Exemplos de estruturas condicionais como if, else, elif.
 
 - 03-loops: Exemplos de loops como for e while.
-
-- 04-funcoes: Exemplos de funções e como usá-las em Python.
-
-- 05-dicionarios-listas: Exemplos de listas, dicionários, tuplas, e manipulação desses tipos de dados.
+  
+- 04-dicionarios-listas: Exemplos de listas, dicionários, tuplas, e manipulação desses tipos de dados.
 
 # 🚀 Como usar
 Para usar o código deste repositório, siga as etapas abaixo:
